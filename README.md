@@ -3,7 +3,7 @@ Website javascript interaktif pribadi yang saya buat di Kelas Industri UBIG
 (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
-![Tampilan beranda java script interaktif] Java.script.interaktif.png
+![Tampilan beranda java script interaktif] Java.script.interaktif-1.png
 ## Fitur
 - Halaman **Beranda** berisi profil, cita-cita, username instagram keahlian, dan kompetensi
 - Halaman **Kontak** berisi form untuk menghubungi saya
